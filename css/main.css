@@ -76,7 +76,7 @@ section:hover{
 	height: 100%;
 	display: inline-block;
 	vertical-align: top; 
-	border: dashed;	
+	border: double;	
 	margin: 1.66%;
 }
 .grid{
